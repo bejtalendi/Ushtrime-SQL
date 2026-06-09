@@ -301,4 +301,6 @@ Aspiring Data Analyst passionate about:
 
 Feel free to connect, provide feedback, or explore the project.
 
-<a href = " LinkedIn">www.linkedin.com/in/lendi-bejta-7b06253a2<a>
+## 🔗 Connect With Me
+
+- LinkedIn: [Lendi Bejta](https://www.linkedin.com/in/lendi-bejta-7b06253a2/)
